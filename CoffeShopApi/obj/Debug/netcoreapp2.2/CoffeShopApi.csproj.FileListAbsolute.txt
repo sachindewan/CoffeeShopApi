@@ -1,0 +1,14 @@
+D:\MyStuff\CoffeeShopApi\CoffeShopApi\CoffeShopApi\bin\Debug\netcoreapp2.2\CoffeShopApi.deps.json
+D:\MyStuff\CoffeeShopApi\CoffeShopApi\CoffeShopApi\bin\Debug\netcoreapp2.2\CoffeShopApi.runtimeconfig.json
+D:\MyStuff\CoffeeShopApi\CoffeShopApi\CoffeShopApi\bin\Debug\netcoreapp2.2\CoffeShopApi.runtimeconfig.dev.json
+D:\MyStuff\CoffeeShopApi\CoffeShopApi\CoffeShopApi\bin\Debug\netcoreapp2.2\CoffeShopApi.dll
+D:\MyStuff\CoffeeShopApi\CoffeShopApi\CoffeShopApi\obj\Debug\netcoreapp2.2\CoffeShopApi.csprojAssemblyReference.cache
+D:\MyStuff\CoffeeShopApi\CoffeShopApi\CoffeShopApi\obj\Debug\netcoreapp2.2\CoffeShopApi.csproj.CoreCompileInputs.cache
+D:\MyStuff\CoffeeShopApi\CoffeShopApi\CoffeShopApi\obj\Debug\netcoreapp2.2\CoffeShopApi.RazorAssemblyInfo.cache
+D:\MyStuff\CoffeeShopApi\CoffeShopApi\CoffeShopApi\obj\Debug\netcoreapp2.2\CoffeShopApi.RazorAssemblyInfo.cs
+D:\MyStuff\CoffeeShopApi\CoffeShopApi\CoffeShopApi\obj\Debug\netcoreapp2.2\CoffeShopApi.AssemblyInfoInputs.cache
+D:\MyStuff\CoffeeShopApi\CoffeShopApi\CoffeShopApi\obj\Debug\netcoreapp2.2\CoffeShopApi.AssemblyInfo.cs
+D:\MyStuff\CoffeeShopApi\CoffeShopApi\CoffeShopApi\obj\Debug\netcoreapp2.2\CoffeShopApi.RazorTargetAssemblyInfo.cache
+D:\MyStuff\CoffeeShopApi\CoffeShopApi\CoffeShopApi\bin\Debug\netcoreapp2.2\CoffeShopApi.pdb
+D:\MyStuff\CoffeeShopApi\CoffeShopApi\CoffeShopApi\obj\Debug\netcoreapp2.2\CoffeShopApi.dll
+D:\MyStuff\CoffeeShopApi\CoffeShopApi\CoffeShopApi\obj\Debug\netcoreapp2.2\CoffeShopApi.pdb
